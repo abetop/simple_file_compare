@@ -1,4 +1,4 @@
-# simple_file_compare
+# simple_file_comparison
 A simple file comparator written in python with graphical interface.
 
 It makes a simple comparison of the text and shows the lines with the differences as a result. 
